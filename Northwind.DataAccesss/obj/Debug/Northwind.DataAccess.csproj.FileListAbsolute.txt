@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\Northwind.DataAccesss.dll.config
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\Northwind.DataAccesss.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\Northwind.DataAccesss.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\EntityFramework.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\Northwind.Entities.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\Northwind.Entities.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\EntityFramework.xml
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\obj\Debug\Northwind.DataAccesss.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\obj\Debug\Northwind.DataAccesss.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.DataAccesss\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache

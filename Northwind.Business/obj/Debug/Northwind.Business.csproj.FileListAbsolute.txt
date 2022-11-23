@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccesss.dll
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccesss.pdb
+C:\Users\Merve\Desktop\2022Projelerim\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccesss.dll.config
